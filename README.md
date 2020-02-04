@@ -4,5 +4,6 @@ Implemented an Android application to help the user locate bus stops in their vi
 
 The application parses JSON data from [Translink Open API ](https://developer.translink.ca/).
 
-![Main Screen](https://github.com/agil98/BusesRUs/blob/master/Images/mainscreen.png){:height="40%" width="40%"}
-!![Bus Stop](https://github.com/agil98/BusesRUs/blob/master/Images/stop.png) ![Arrivals](https://github.com/agil98/BusesRUs/blob/master/Images/arrivals.png)
+![Main Screen](/Images/mainscreen.png){:height="40%" width="40%"}
+![Bus Stop](/Images/stop.png){:height="50%" width="50%"}
+![Arrivals](/Images/arrivals.png){:height="50%" width="50%"}!

@@ -1,6 +1,6 @@
 ## Final project for CPSC 210 Software Construction course.
 
-Implemented an Android application that maps the location of stops, busses and bus routes on the Greater Vancouver Transit system and retrieves real time arrival information at those stops.  
+Implemented an Android application to help the user locate bus stops in their vincinity by mapping the location of stops, busses and routes on the Greater Vancouver Transit system. The closest stop to the user is highlighted on the map and its location is displayed on the bottom of the screen. The user can also click on any of the stops to display buses and it their arrival times at that stop. Additionally, it displays the bus routes on the map as different coloured lines.
 
-Additionally, it plots the user's location and map highlights the nearest bus stop.
-The application uses [Translink Open API ](https://developer.translink.ca/), free of charge.
+The application parses JSON data from [Translink Open API ](https://developer.translink.ca/).
+
